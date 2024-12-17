@@ -1,0 +1,12 @@
+let employee = "Ram";
+console.log(typeof employee);
+let salary = 1200000;
+console.log(typeof salary);
+let profit;
+console.log(typeof profit);
+let profit = null;
+console.log(typeof profit);
+let ispresent = false;
+console.log(typeof ispresent);
+const id = 56;
+console.log(id);
